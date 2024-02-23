@@ -1,0 +1,13 @@
+unit interfaces.usuario;
+
+interface
+
+  type
+    IUsuario = interface
+      function FindUser(aValue : string): IUsuario;
+      function Login: IUsuario;
+    end;
+
+implementation
+
+end.

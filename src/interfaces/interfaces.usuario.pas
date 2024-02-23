@@ -1,0 +1,17 @@
+unit interfaces.usuario;
+
+interface
+
+  type
+    iUsuario = interface
+      ['{CF667F14-B65A-4BAF-BC9A-49E6A6E39872}']
+      function User(aValue: string): iUsuario; overload;
+      function User: string; overload;
+      function Passoword(aValue: string): iUsuario; overload;
+      function Passoword: string; overload;
+      procedure Login;
+    end;
+
+implementation
+
+end.

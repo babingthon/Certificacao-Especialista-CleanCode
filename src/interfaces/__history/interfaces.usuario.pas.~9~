@@ -1,0 +1,14 @@
+unit interfaces.usuario;
+
+interface
+
+  type
+    iUsuario = interface
+      ['{CF667F14-B65A-4BAF-BC9A-49E6A6E39872}']
+      function FindUser: iUsuario;
+      // function Login: IUsuario;
+    end;
+
+implementation
+
+end.

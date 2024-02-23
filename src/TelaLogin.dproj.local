@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/05 09:28:01.000.184,=C:\Users\Babingthon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/15 11:31:38.000.552,=C:\Users\Babingthon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/16 09:24:07.000.234,=C:\Users\Babingthon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/16 09:24:50.000.463,C:\Users\Babingthon\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Babingthon\Desktop\TelaLogin - CleanCode\src\views\view.principal.pas</Transaction>
+    <Transaction>2024/02/16 09:24:50.000.463,C:\Users\Babingthon\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Babingthon\Desktop\TelaLogin - CleanCode\src\views\view.principal.fmx</Transaction>
+    <Transaction>2024/02/16 09:25:07.000.151,C:\Users\Babingthon\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Babingthon\Desktop\TelaLogin - CleanCode\src\TelaLogin.dproj</Transaction>
+    <Transaction>2024/02/18 16:08:45.000.444,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 16:09:15.000.460,H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas=H:\GitHub\TelaLogin - CleanCode\src\interfaces\interfaces.usuario.pas</Transaction>
+    <Transaction>2024/02/18 16:11:51.000.140,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/18 16:12:06.000.578,H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas=H:\GitHub\TelaLogin - CleanCode\src\classes\classe.usuario.pas</Transaction>
+    <Transaction>2024/02/22 10:46:46.126,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:50:28.888,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:52:28.950,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:52:56.103,H:\GitHub\TelaLogin - CleanCode\src\interfaces\interfaces.conexao.firedac.pas=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:54:08.423,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:54:51.822,H:\GitHub\TelaLogin - CleanCode\src\classes\classe.conexao.firedac.pas=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 10:58:15.596,=H:\GitHub\TelaLogin - CleanCode\src\Unit2.pas</Transaction>
+    <Transaction>2024/02/22 11:08:22.144,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 11:08:54.159,H:\GitHub\TelaLogin - CleanCode\src\classes\classe.query.firedac.pas=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 12:03:03.006,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 12:03:57.173,H:\GitHub\TelaLogin - CleanCode\src\controllers\controller.factory.query.pas=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 12:05:53.582,=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 12:06:11.228,H:\GitHub\TelaLogin - CleanCode\src\interfaces\interfaces.factoryquery.pas=H:\GitHub\TelaLogin - CleanCode\src\Unit1.pas</Transaction>
+    <Transaction>2024/02/22 21:32:06.468,=H:\GitHub\TelaLogin - CleanCode\src\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,16 @@
+program TelaLogin;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  FMX.Skia,
+  view.principal in 'views\view.principal.pas' {Form1};
+
+{$R *.res}
+
+begin
+  GlobalUseSkia := True;
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

@@ -1,0 +1,34 @@
+unit controller.factory.query;
+
+interface
+
+  type
+    TFactoryQuery = class(TInterfacedObject, iFactoryQuery)
+      private
+      public
+        constructor Create;
+        destructor Destroy; override;
+        class function New: iFactoryQuery;
+    end;
+
+implementation
+
+  { TFactoryQuery }
+
+  constructor TFactoryQuery.Create;
+    begin
+
+    end;
+
+  destructor TFactoryQuery.Destroy;
+    begin
+
+      inherited;
+    end;
+
+  class function TFactoryQuery.New: iFactoryQuery;
+    begin
+
+    end;
+
+end.

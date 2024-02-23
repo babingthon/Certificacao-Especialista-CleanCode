@@ -1,0 +1,13 @@
+[General]
+Name=TelaLogin
+BaseDir=H:\GitHub\TelaLogin - CleanCode\src\
+Project=1
+Version=2
+[Classes]
+Count=1
+Class0.Name=TForm1
+Class0.ObjectType=Class
+Class0.DerivedFrom=TForm
+Class0.SourceName=view.principal
+Class0.LineNo=10
+Class0.Filename=H:\GitHub\TelaLogin - CleanCode\src\views\view.principal.pas

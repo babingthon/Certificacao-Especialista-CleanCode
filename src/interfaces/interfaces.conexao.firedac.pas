@@ -1,0 +1,22 @@
+unit interfaces.conexao.firedac;
+
+interface
+
+  uses
+    Data.DB;
+
+  type
+    iConexao = interface
+      ['{8A767F95-867D-4E6A-B37A-99E9C20C64F0}']
+      function Connection: TCustomConnection;
+    end;
+
+  type
+    iQuery = interface
+      ['{C244A3AC-83F0-4D23-929F-36EE3122C4DB}']
+      function SQL(Value: string): iQuery;
+    end;
+
+implementation
+
+end.

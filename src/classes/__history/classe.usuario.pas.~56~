@@ -1,0 +1,70 @@
+unit classe.usuario;
+
+interface
+
+  uses
+    interfaces.usuario, System.SysUtils, FMX.Dialogs,
+    interfaces.conexao.firedac;
+
+  type
+    TUsuario = class(TInterfacedObject, iUsuario)
+      private
+        FQuery: iQuery;
+        FUser: string;
+        FPassword: string;
+      public
+        function FUser: iUsuario;
+        function FPass: iUsuario;
+        constructor Create;
+        destructor Destroy; override;
+        class function New: iUsuario;
+        function User(aValue: string): iUsuario; overload;
+        function User: string; overload;
+        function Passoword(aValue: string): iUsuario; overload;
+        function Passoword: string; overload;
+    end;
+
+implementation
+
+  uses
+    controller.factory.query;
+
+  { TUsuario }
+
+  constructor TUsuario.Create;
+    begin
+      FQuery := TFactoryQuery.New.query(nil);
+    end;
+
+  destructor TUsuario.Destroy;
+    begin
+
+      inherited;
+    end;
+
+  class function TUsuario.New: iUsuario;
+    begin
+      Result := TUsuario.Create;
+    end;
+
+  function TUsuario.Passoword(aValue: string): iUsuario;
+    begin
+
+    end;
+
+  function TUsuario.Passoword: string;
+    begin
+
+    end;
+
+  function TUsuario.User(aValue: string): iUsuario;
+    begin
+
+    end;
+
+  function TUsuario.User: string;
+    begin
+
+    end;
+
+end.

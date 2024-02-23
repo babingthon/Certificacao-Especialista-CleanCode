@@ -1,0 +1,34 @@
+unit classe.query.firedac;
+
+interface
+
+  type
+    TQueryFiredac = class(TInterfacedObject, iQuery)
+      private
+      public
+        constructor Create;
+        destructor Destroy; override;
+        class function New: iQuery;
+    end;
+
+implementation
+
+  { TQueryFiredac }
+
+  constructor TQueryFiredac.Create;
+    begin
+
+    end;
+
+  destructor TQueryFiredac.Destroy;
+    begin
+
+      inherited;
+    end;
+
+  class function TQueryFiredac.New: iQuery;
+    begin
+
+    end;
+
+end.
