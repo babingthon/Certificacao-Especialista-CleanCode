@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/03/06 16:05:18.279,=C:\repositorio\Unit2.pas</Transaction>
+    <Transaction>2024/03/06 16:06:02.477,C:\repositorio\TelaLogin2.dproj=C:\repositorio\Project1.dproj</Transaction>
+    <Transaction>2024/03/06 16:06:20.527,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\TelaLogin2.dproj=C:\repositorio\TelaLogin2.dproj</Transaction>
+    <Transaction>2024/03/06 16:07:20.354,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\view\view.principal.pas</Transaction>
+    <Transaction>2024/03/06 16:08:08.724,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:12:10.533,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\model.interfaces.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:12:24.999,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\model.interfaces.pas=</Transaction>
+    <Transaction>2024/03/06 16:12:49.727,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\conexao\model.interfaces.pas</Transaction>
+    <Transaction>2024/03/06 16:12:54.124,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:15:39.604,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\conexao\impl\model.conexao.firedac.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:17:17.103,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:19:42.977,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\conexao\impl\model.conexao.query.firedac.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:19:56.191,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:21:53.242,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\entity\model.entity.usuario.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:21:58.979,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:31:54.766,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\entity\model.entity.interrfaces.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\entity\model.entity.usuario.pas</Transaction>
+    <Transaction>2024/03/06 16:32:17.095,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\entity\model.entity.usuario.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:33:10.262,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\entity\model.entity.interfaces.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\entity\model.entity.interrfaces.pas</Transaction>
+    <Transaction>2024/03/06 16:33:33.053,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\conexao\impl\model.conexao.firedac.pas=</Transaction>
+    <Transaction>2024/03/06 16:33:33.082,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\conexao\impl\model.conexao.query.firedac.pas=</Transaction>
+    <Transaction>2024/03/06 16:33:58.615,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\conexao\model.conexao.firedac.pas</Transaction>
+    <Transaction>2024/03/06 16:33:58.644,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\model\conexao\model.conexao.query.firedac.pas</Transaction>
+    <Transaction>2024/03/06 16:34:18.350,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:34:55.260,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\controller\controller.interfaces.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:35:00.359,=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+    <Transaction>2024/03/06 16:36:59.375,C:\repositorio\Certificacao-Especialista-CleanCode\verificar\src\controller\controller.controller.pas=C:\repositorio\Certificacao-Especialista-CleanCode\verificar\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
