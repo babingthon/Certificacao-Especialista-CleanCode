@@ -1,0 +1,61 @@
+inherited Form1_XLgXhdpiTb: TForm1_XLgXhdpiTb
+  ClientHeight = 1255
+  ClientWidth = 800
+  DesignerMasterStyle = 3
+  inherited Layout1: TLayout
+    Size.Width = 700.000000000000000000
+    Size.Height = 1155.000000000000000000
+    inherited Layout2: TLayout
+      Size.Width = 660.000000000000000000
+      inherited Label1: TLabel
+        Size.Width = 660.000000000000000000
+      end
+      inherited Layout8: TLayout
+        Size.Width = 660.000000000000000000
+        inherited Path3: TPath
+          Padding.Left = 10.000000000000000000
+          Padding.Right = 10.000000000000000000
+          Padding.Bottom = 10.000000000000000000
+          Size.Width = 660.000000000000000000
+        end
+      end
+    end
+    inherited Layout3: TLayout
+      inherited Layout6: TLayout
+        inherited EditPass: TEdit
+          Size.Width = 324.000000000000000000
+          Size.Height = 32.000000000000000000
+        end
+        inherited Path1: TPath
+          Margins.Right = 5.000000000000000000
+        end
+      end
+      inherited Layout7: TLayout
+        inherited EditUser: TEdit
+          Size.Height = 32.000000000000000000
+        end
+      end
+    end
+    inherited Layout4: TLayout
+      Position.Y = 1043.000000000000000000
+      Size.Width = 660.000000000000000000
+      inherited Label2: TLabel
+        Position.X = 534.000000000000000000
+        TextSettings.Font.StyleExt = {00040000000100000004000000}
+      end
+    end
+    inherited Layout5: TLayout
+      Position.Y = 1085.000000000000000000
+      Size.Width = 660.000000000000000000
+      inherited Rectangle1: TRectangle
+        Size.Width = 650.000000000000000000
+        inherited Label3: TLabel
+          Margins.Left = 10.000000000000000000
+          Margins.Right = 5.000000000000000000
+          Size.Width = 635.000000000000000000
+          TextSettings.Font.StyleExt = {00070000000000000004000000}
+        end
+      end
+    end
+  end
+end
